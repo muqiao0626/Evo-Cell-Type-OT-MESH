@@ -72,6 +72,7 @@ Evo_Cell_Type_OT_MESH/
 Follow procedures from this repo (https://github.com/shekharlab/RetinaEvolution) for the h5ad data format.
 
 ## Citation
+
 ```bibtex
 @article{qiao2025otmesh,
   title={Unsupervised Evolutionary Cell Type Matching via Entropy-Minimized Optimal Transport},
@@ -83,10 +84,10 @@ Follow procedures from this repo (https://github.com/shekharlab/RetinaEvolution)
 
 ## References
 
-Key datasets used in this study:
 1. Peng et al. (2019). Molecular Classification and Comparative Taxonomics of Foveal and Peripheral Cells in Primate Retina. *Cell*.
 2. Shekhar et al. (2016). Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics. *Cell*.
 3. Tran et al. (2019). Single-cell profiles of retinal neurons differing in resilience to injury reveal neuroprotective genes. *Neuron*.
+4. Hahn, J., Monavarfeshani, A., Qiao, M., et al. (2023). Evolution of neuronal cell classes and types in the vertebrate retina. *Nature*.
 
 ## Contact
 
